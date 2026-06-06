@@ -1,0 +1,8 @@
+[package]
+name = "oxide-compactor"
+version = "0.1.0"
+edition = "2021"
+description = "Background compaction for GPU data structures with ternary compaction state"
+license = "MIT"
+
+[dependencies]
